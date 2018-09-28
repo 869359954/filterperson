@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+}
+body{
+    margin: 100px auto;
+    border: 3px #ccc solid;
+    border-radius: 5px;
+    width: 600px;
+}
+input{
+    height: 20px;
+    width: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+ul{
+    font-size: 18px;
+    color:black;
+    margin-left: 20px;
+}
+button{
+    margin-left: 20px;
+    width:50px;
+    height: 25px;
+    color: #a34;
+}
+li{
+    margin-top: 20px;
+    border-bottom: #aaa 2px solid;
+}
